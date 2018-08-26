@@ -13,7 +13,6 @@ public class DemoApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		// TODO Auto-generated method stub
 		System.out.println("BOOT IS UP AND RUNNING");
 	}
 }
